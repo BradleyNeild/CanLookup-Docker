@@ -10,7 +10,7 @@
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/BradleyNeild/CanLookup-Docker.git
-   cd ~/CanLookup-Docker
+   cd CanLookup-Docker
    git clone https://github.com/BradleyNeild/CanLookup.git
    ```
 
