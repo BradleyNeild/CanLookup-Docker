@@ -1,7 +1,7 @@
 # Dockerfile
 FROM python:3.9
-WORKDIR /app
-COPY requirements.txt /app/
+WORKDIR /CanLookup
+COPY requirements.txt /CanLookup/
 RUN pip install -r requirements.txt
-COPY . /app
+COPY . /CanLookup
 CMD ["python", "manage.py", "runserver", "0.0.0.0:8000"]
