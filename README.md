@@ -75,7 +75,3 @@ Details on the environment variables:
 - If you encounter any issues with database connectivity, ensure that the `POSTGRES_*` environment variables match the credentials of the TimescaleDB service and that the service is ready before attempting to connect.
 
 - For issues related to static files, verify the AWS credentials and bucket configuration.
-
-## Support
-
-For support, contact bradleyeneild@gmail.com or file an issue in the project's issue tracker.
