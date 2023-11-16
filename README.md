@@ -1,23 +1,18 @@
-# Django Application Deployment
-
-This document provides instructions for deploying the Django application using Docker and Docker Compose.
-
 ## Prerequisites
 
 - Docker installed on the host machine.
 - Docker Compose installed on the host machine.
 - Git (if cloning the repository).
-- Access to the private repository (if applicable).
+- Access to the private repository.
 
 ## Quick Start
 
 1. **Clone the Repository**
 
    If the code needs to be pulled from a Git repository, run:
-
    ```bash
+   cd ~/CanLookup-Docker
    git clone https://github.com/BradleyNeild/CanLookup.git
-   cd CanLookup
    ```
 
 2. **Environment Configuration**
@@ -84,8 +79,4 @@ Details on the environment variables:
 
 ## Support
 
-For support, contact [bradleyeneild@gmail.com] or file an issue in the project's issue tracker.
-
-## License
-
-[Include license information here if applicable]
+For support, contact bradleyeneild@gmail.com or file an issue in the project's issue tracker.
