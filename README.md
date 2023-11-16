@@ -8,9 +8,8 @@
 ## Quick Start
 
 1. **Clone the Repository**
-
-   If the code needs to be pulled from a Git repository, run:
    ```bash
+   git clone https://github.com/BradleyNeild/CanLookup-Docker.git
    cd ~/CanLookup-Docker
    git clone https://github.com/BradleyNeild/CanLookup.git
    ```
