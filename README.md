@@ -3,7 +3,7 @@
 - Docker installed on the host machine.
 - Docker Compose installed on the host machine.
 - Git (if cloning the repository).
-- Access to the private repository.
+- Access to the private repository https://github.com/BradleyNeild/CanLookup-Docker.
 
 ## Quick Start
 
