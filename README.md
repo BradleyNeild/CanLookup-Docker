@@ -24,7 +24,7 @@
    nano .env  # Or use your preferred text editor
    ```
 
-   Fill in the details such as `DJANGO_SECRET_KEY`, database configurations, AWS credentials, and any other environment-specific variables.
+   Fill in the environment variables such as database configurations and AWS credentials.
 
 3. **Build and Run the Docker Containers**
 
@@ -34,7 +34,7 @@
    docker-compose up --build -d
    ```
 
-   The `-d` flag is for running the containers in detached mode.
+   The `-d` flag runs the containers in detached mode.
 
 4. **Database Migrations**
 
